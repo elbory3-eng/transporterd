@@ -52,3 +52,35 @@ App en línea: https://elbory3-eng.github.io/transporterd/
 
 3. HISTORIAL DE GIT (git log)
 -----------------------------
+8ae2e4f  2026-10-29 15:41  Jose Luis Peña  Evidencia del proyecto
+0f0218a  2026-10-29 15:39  Jose Luis Peña  TransporteRD: calculadora de pasajes entre ciudades y en la ciudad, modo oscuro, historial y publicación en GitHub Pages
+
+Archivos del proyecto:
+  .github/workflows/deploy.yml
+  .gitignore
+  README.md
+  abrir.html
+  capturas/en_la_ciudad.png
+  capturas/entre_ciudades.png
+  capturas/modo_oscuro.png
+  crear-abrir-html.js
+  evidencia_historial.txt
+  index.html
+  package-lock.json
+  package.json
+  public/favicon.svg
+  src/App.jsx
+  src/components/CalculadoraInterurbana.jsx
+  src/components/CalculadoraUrbana.jsx
+  src/components/Encabezado.jsx
+  src/components/Historial.jsx
+  src/components/PanelCombustible.jsx
+  src/components/TarjetaTransporte.jsx
+  src/data/ciudades.js
+  src/data/tarifas.js
+  src/index.css
+  src/logic/calculos.js
+  src/logic/storage.js
+  src/logic/usePersistente.js
+  src/main.jsx
+  vite.config.js
