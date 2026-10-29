@@ -1,6 +1,8 @@
 EVIDENCIA E HISTORIAL DEL PROYECTO
-TransporteRD: Calcula tu pasaje — Reto 4 — Programación 3, UASD
-Grupo: NOMBRE DEL GRUPO
+TransporteRD: Calcula tu pasaje — Reto 4 — Lenguaje de Programación III (INF5160-18), UASD
+Grupo 4 — Prof. Edian Franklin Franco De los Santos
+Integrantes: Benson Ho Chen, Abel Taveras, Joanfi Espinal López,
+  Yadeiry Nicole Brito Reynoso y José Peña
 Repositorio: https://github.com/elbory3-eng/transporterd
 App en línea: https://elbory3-eng.github.io/transporterd/
 ======================================================================

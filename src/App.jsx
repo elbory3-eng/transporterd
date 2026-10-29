@@ -71,7 +71,7 @@ function App() {
           tarifa integrada RD$35. Los demás pasajes son estimados; confirma en la terminal antes de
           viajar.
         </p>
-        <p>TransporteRD · Programación 3 · UASD</p>
+        <p>TransporteRD · Grupo 4 · Lenguaje de Programación III · UASD</p>
       </footer>
     </div>
   )

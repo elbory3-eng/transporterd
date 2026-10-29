@@ -1,15 +1,17 @@
 # 🚌 TransporteRD — Calcula tu pasaje
 
-**Reto 4 · Proyecto en grupo · Programación 3 — UASD**
+**Reto 4 · Proyecto en grupo · Lenguaje de Programación III (INF5160-18) — UASD**
+**Profesor:** Edian Franklin Franco De los Santos
 
-**Grupo:** _NOMBRE DEL GRUPO_
+**Grupo:** Grupo 4
 
 **Integrantes:**
 
-- Jose Luis Peña
-- _Integrante 2_
-- _Integrante 3_
-- _Integrante 4_
+- Benson Ho Chen
+- Abel Taveras
+- Joanfi Espinal López
+- Yadeiry Nicole Brito Reynoso
+- José Peña
 
 **🌐 Ver la app en línea:** https://elbory3-eng.github.io/transporterd/
 
